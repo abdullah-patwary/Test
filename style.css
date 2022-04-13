@@ -8,6 +8,8 @@ h1{
     font-weight: 2000;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+img{
+    width: 100%;
 #p1{
     color: rgb(10, 221, 94);
     background-color: black;
@@ -28,9 +30,6 @@ h1{
     border: 10px solid purple;
     border-radius: 10px;
     margin: 10px 600px;
-}
-img{
-    width: 100%;
 }
 .name{
     font-style: italic;
